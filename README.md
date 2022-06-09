@@ -2,7 +2,7 @@
 
 Códigos feitos para o curso/playlist de Curso Primeiros passos com Quarkus!, no canal RinaldoDev do YouTube.
 
-* Playlist no YouTube: https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy
+* Playlist no YouTube: https://www.youtube.com/playlist?list=PLuYctAHjg89Y0kmXDuXLYHzGtFnuAArDv
 * Canal no YouTube: https://www.youtube.com/rinaldodev
 
 ## Me siga para mais conteúdo gratuito!
